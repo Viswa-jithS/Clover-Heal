@@ -25,8 +25,11 @@ app.add_middleware(
         "http://localhost:5174", 
         "http://localhost:5175", 
         "http://localhost:5176", 
-        "http://localhost:3000"
+        "http://localhost:3000",
+        "https://clover-heal.vercel.app",
+        "https://clover-heal-admin.vercel.app"
     ],
+    allow_origin_regex="https://.*",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
