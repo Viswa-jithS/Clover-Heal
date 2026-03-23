@@ -94,14 +94,6 @@ export const AdminLogin: React.FC<AdminLoginProps> = ({ onLogin }) => {
           </button>
         </form>
 
-        <div className="login-footer">
-          <p>&copy; 2025 CloverHeal. All rights reserved.</p>
-          <div className="footer-links">
-            <a href="#">Privacy Policy</a>
-            <span>•</span>
-            <a href="#">Terms of Service</a>
-          </div>
-        </div>
       </div>
 
       <div className="login-background">

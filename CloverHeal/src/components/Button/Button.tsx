@@ -34,26 +34,40 @@ export const Button = ({
 
   return (
     <div
-      className={`inline-flex items-center px-6 py-2.5 relative justify-center rounded-lg gap-1.5 h-11 ${state.state === "default" && state.type === "secondary" ? "border-color-light-250" : (state.type === "secondary" && state.state === "hover") ? "border-color-light-500" : ""} ${state.type === "secondary" ? "bg-color-light-50" : (state.type === "primary" && state.state === "hover") ? "bg-color-primary-500" : "bg-color-primary-100"} ${state.type === "primary" ? "border-[none]" : "border border-solid"} ${state.type === "primary" ? "before:content-['']" : ""} ${state.type === "primary" ? "before:[mask-composite:exclude]" : ""} ${state.type === "primary" ? "before:pointer-events-none" : ""} ${state.type === "primary" ? "before:inset-0" : ""} ${state.type === "primary" ? "before:[background:linear-gradient(180deg,rgba(255,135,71,1)_0%,rgba(23,23,23,0.1)_100%)]" : ""} ${state.type === "primary" ? "before:absolute" : ""} ${state.type === "primary" ? "before:[-webkit-mask:linear-gradient(#fff_0_0)_content-box,linear-gradient(#fff_0_0)]" : ""} ${state.type === "primary" ? "before:rounded-lg" : ""} ${state.type === "primary" ? "before:p-px" : ""} ${state.type === "primary" ? "before:z-[1]" : ""} ${state.type === "primary" ? "before:[-webkit-mask-composite:xor]" : ""} ${className}`}
-      onMouseEnter={() => {
-        dispatch("mouse_enter");
-      }}
-      onMouseLeave={() => {
-        dispatch("mouse_leave");
-      }}
+      className={`inline-flex items-center px-6 py-2.5 relative justify-center rounded-lg gap-1.5 h-11 ${
+        state.type === "secondary"
+          ? state.state === "hover"
+            ? "border-color-dark-500 bg-slate-100"
+            : "border-color-dark-250 bg-color-light-50"
+          : ""
+      } ${
+        state.type === "primary"
+          ? state.state === "hover"
+            ? "bg-orange-600"
+            : "bg-orange-500"
+          : ""
+      } ${state.type === "primary" ? "border-[none]" : "border border-solid"} ${className}`}
+      onMouseEnter={() => { dispatch("mouse_enter"); }}
+      onMouseLeave={() => { dispatch("mouse_leave"); }}
     >
       {showIcon && (
         <InputIcons
           className="!relative !left-[unset] !top-[unset]"
           property1="arrow-up-right"
-          propertyArrowUp={state.state === "default" && state.type === "secondary"
-            ? "/assets/input-icons.svg"
-            : "/assets/input-icons-3.svg"}
+          propertyArrowUp={
+            state.state === "default" && state.type === "secondary"
+              ? "/assets/input-icons.svg"
+              : "/assets/input-icons-3.svg"
+          }
           size="big" propertyMenuSize={""} propertyChevron={""} propertyUserSize={""} propertyZapSize={""}        />
       )}
 
       <div
-        className={`font-body-SM w-fit mt-[-1.00px] tracking-[var(--body-SM-letter-spacing)] text-[length:var(--body-SM-font-size)] [font-style:var(--body-SM-font-style)] font-[number:var(--body-SM-font-weight)] leading-[var(--body-SM-line-height)] whitespace-nowrap relative ${state.state === "default" && state.type === "secondary" ? "text-color-light-750" : "text-color-light-1000"}`}
+        className={`font-body-SM w-fit mt-[-1.00px] tracking-[var(--body-SM-letter-spacing)] text-[length:var(--body-SM-font-size)] [font-style:var(--body-SM-font-style)] font-[number:var(--body-SM-font-weight)] leading-[var(--body-SM-line-height)] whitespace-nowrap relative ${
+          state.type === "primary"
+            ? "text-white font-semibold"
+            : "text-color-dark-750"
+        }`}
       >
         {label}
       </div>
