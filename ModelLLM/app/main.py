@@ -11,6 +11,19 @@ from app.routes.admin import router as admin_router
 # Create database tables
 Base.metadata.create_all(bind=engine)
 
+# Auto-migrate existing tables (HuggingFace deployment fix)
+from sqlalchemy import text
+try:
+    with engine.begin() as conn:
+        try: conn.execute(text("ALTER TABLE users ADD COLUMN name VARCHAR"))
+        except: pass
+        try: conn.execute(text("ALTER TABLE users ADD COLUMN role VARCHAR DEFAULT 'USER'"))
+        except: pass
+        try: conn.execute(text("ALTER TABLE cases ADD COLUMN assigned_admin_id UUID"))
+        except: pass
+except Exception as e:
+    print(f"Auto-migration failed: {e}")
+
 app = FastAPI(
     title="CloverHeal API",
     description="AI-powered medical diagnostic support — Bayesian + LLM hybrid clinical decision system",
