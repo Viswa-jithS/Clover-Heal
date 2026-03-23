@@ -67,9 +67,7 @@ export const Footer = () => {
           </div>
         </div>
 
-        <div className="border-t border-white/10 pt-8 flex justify-center items-center">
-          <p className="text-slate-500 text-sm">&copy; {new Date().getFullYear()} CloverHeal. All rights reserved.</p>
-        </div>
+
       </div>
     </footer>
   );
