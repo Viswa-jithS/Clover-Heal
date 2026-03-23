@@ -435,25 +435,71 @@ export const SymptomsAssessment = () => {
           {/* ───── Navigation Actions ───── */}
           <div className="flex justify-between items-center mt-10 pt-6 border-t border-slate-100">
             {currentStep > 1 ? (
-              <button type="button" className="px-6 py-3 rounded-xl font-semibold text-slate-600 hover:bg-slate-100 transition-colors" onClick={goPrev}>
+              <button
+                type="button"
+                onClick={goPrev}
+                style={{ padding: '0.75rem 1.5rem', borderRadius: '0.75rem', fontWeight: 600, color: '#475569', background: 'transparent', border: 'none', cursor: 'pointer' }}
+                onMouseEnter={e => { (e.currentTarget as HTMLButtonElement).style.background = '#f1f5f9'; }}
+                onMouseLeave={e => { (e.currentTarget as HTMLButtonElement).style.background = 'transparent'; }}
+              >
                 ← Previous
               </button>
             ) : <div></div>}
             
              {currentStep < totalSteps ? (
-              <button type="button" 
-                className="px-8 py-3 bg-gradient-to-r from-blue-600 to-teal-500 hover:from-blue-700 hover:to-teal-600 text-white rounded-xl font-semibold shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all duration-300 disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none flex items-center gap-2" 
+              <button
+                type="button"
                 onClick={goNext}
-                disabled={currentStep === 2 && selectedSet.size === 0}>
+                disabled={currentStep === 2 && selectedSet.size === 0}
+                style={{
+                  padding: '0.75rem 2rem',
+                  background: currentStep === 2 && selectedSet.size === 0 ? '#94a3b8' : 'linear-gradient(to right, #2563eb, #14b8a6)',
+                  color: '#ffffff',
+                  borderRadius: '0.75rem',
+                  fontWeight: 600,
+                  border: 'none',
+                  cursor: currentStep === 2 && selectedSet.size === 0 ? 'not-allowed' : 'pointer',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '0.5rem',
+                  boxShadow: '0 4px 16px rgba(37,99,235,0.3)',
+                  transition: 'all 0.3s ease',
+                  opacity: currentStep === 2 && selectedSet.size === 0 ? 0.5 : 1,
+                }}
+                onMouseEnter={e => {
+                  if (!(currentStep === 2 && selectedSet.size === 0))
+                    (e.currentTarget as HTMLButtonElement).style.transform = 'translateY(-2px)';
+                }}
+                onMouseLeave={e => {
+                  (e.currentTarget as HTMLButtonElement).style.transform = 'translateY(0)';
+                }}
+              >
                 Next Step →
               </button>
             ) : (
-              <button type="submit" 
-                className="px-8 py-3 bg-gradient-to-r from-teal-500 to-teal-600 hover:from-teal-600 hover:to-teal-700 text-white rounded-xl font-bold shadow-lg shadow-teal-500/30 hover:shadow-xl hover:-translate-y-0.5 transition-all duration-300 disabled:opacity-70 flex items-center gap-2 text-lg" 
-                disabled={isSubmitting}>
+              <button
+                type="submit"
+                disabled={isSubmitting}
+                style={{
+                  padding: '0.75rem 2rem',
+                  background: isSubmitting ? '#5eead4' : 'linear-gradient(to right, #14b8a6, #0d9488)',
+                  color: '#ffffff',
+                  borderRadius: '0.75rem',
+                  fontWeight: 700,
+                  fontSize: '1.125rem',
+                  border: 'none',
+                  cursor: isSubmitting ? 'not-allowed' : 'pointer',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '0.5rem',
+                  boxShadow: '0 4px 16px rgba(20,184,166,0.4)',
+                  opacity: isSubmitting ? 0.7 : 1,
+                  transition: 'all 0.3s ease',
+                }}
+              >
                 {isSubmitting ? (
                   <>
-                    <svg className="animate-spin -ml-1 mr-2 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle><path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>
+                    <svg style={{ animation: 'spin 1s linear infinite', width: '1.25rem', height: '1.25rem' }} xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle style={{ opacity: 0.25 }} cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle><path style={{ opacity: 0.75 }} fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>
                     Submitting...
                   </>
                 ) : 'Submit Assessment ✓'}

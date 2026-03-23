@@ -115,7 +115,34 @@ export const Contact = () => {
                 <textarea name="message" placeholder="How can we help you?" rows={5} value={formData.message} onChange={handleChange} required className={`${inputClasses} resize-none`}></textarea>
               </div>
 
-              <button type="submit" className="w-full py-4 bg-gradient-to-r from-blue-600 to-teal-500 hover:from-blue-700 hover:to-teal-600 text-white rounded-xl font-bold shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all duration-300 flex justify-center items-center gap-2 text-lg">
+              <button
+                type="submit"
+                style={{
+                  width: '100%',
+                  padding: '1rem',
+                  background: 'linear-gradient(to right, #2563eb, #14b8a6)',
+                  color: '#ffffff',
+                  borderRadius: '0.75rem',
+                  fontWeight: 700,
+                  fontSize: '1.125rem',
+                  border: 'none',
+                  cursor: 'pointer',
+                  display: 'flex',
+                  justifyContent: 'center',
+                  alignItems: 'center',
+                  gap: '0.5rem',
+                  boxShadow: '0 8px 24px rgba(37,99,235,0.3)',
+                  transition: 'all 0.3s ease',
+                }}
+                onMouseEnter={e => {
+                  (e.currentTarget as HTMLButtonElement).style.background = 'linear-gradient(to right, #1d4ed8, #0d9488)';
+                  (e.currentTarget as HTMLButtonElement).style.transform = 'translateY(-2px)';
+                }}
+                onMouseLeave={e => {
+                  (e.currentTarget as HTMLButtonElement).style.background = 'linear-gradient(to right, #2563eb, #14b8a6)';
+                  (e.currentTarget as HTMLButtonElement).style.transform = 'translateY(0)';
+                }}
+              >
                 Send Message <span>→</span>
               </button>
             </form>
