@@ -16,7 +16,6 @@ class User(Base):
     role = Column(String, nullable=False, default="USER")  # USER | DOCTOR | ADMIN
     created_at = Column(DateTime(timezone=True), server_default=func.now())
 
-    cases = relationship("Case", primaryjoin="User.id == Case.user_id", back_populates="user")
 
 
 class Case(Base):
@@ -44,4 +43,4 @@ class Case(Base):
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
 
-    user = relationship("User", primaryjoin="Case.user_id == User.id", back_populates="cases")
+    user = relationship("User", foreign_keys=[user_id], backref="cases")
