@@ -105,6 +105,7 @@ def create_case(
     symptoms = request.symptoms
     answers = request.answers
     comments = request.additional_comments or ""
+    personal_info = request.personal_info or {}
 
     if not symptoms:
         raise HTTPException(
@@ -112,36 +113,87 @@ def create_case(
             detail="Symptoms list cannot be empty"
         )
 
-    # LLM analysis
+    # ── Derive structured clinical signals from payload ──────────────────────
+    # Direct boolean answers from frontend
+    fever              = bool(answers.get("fever", False))
+    sudden_onset       = bool(answers.get("sudden_onset", False))
+    weight_loss        = bool(answers.get("weight_loss", False))
+    exertion           = bool(answers.get("exertion", False))
+    rest_breathlessness = bool(answers.get("rest_breathlessness", False))
+    cough_duration     = bool(answers.get("cough_duration", False))
+
+    # Derive from lifestyle fields already captured
+    smoking_status = answers.get("smokingStatus", "")
+    smoking = smoking_status in ("current", "former")
+
+    # Derive from known conditions checkbox list (list of strings)
+    known_conditions = answers.get("known_conditions", [])
+    if isinstance(known_conditions, str):
+        known_conditions = [known_conditions]
+    known_conditions_lower = [c.lower() for c in known_conditions]
+    diabetes    = any("diabet" in c for c in known_conditions_lower)
+    hypertension = any("hypert" in c or "blood pressure" in c for c in known_conditions_lower)
+
+    # Derive age group from personal_info
+    try:
+        age = int(personal_info.get("age", 0))
+    except (ValueError, TypeError):
+        age = 0
+    age_gt60 = age > 60
+
+    # Chest severity (0-10 scale)
+    chest_severity = int(answers.get("chest_severity", 0) or 0)
+
+    # ── LLM analysis ─────────────────────────────────────────────────────────
     llm_analysis = analyze_free_text_with_llm(comments)
     risk_factors = llm_analysis.get("risk_factors", [])
     modifiers = llm_analysis.get("symptom_modifiers", [])
     free_text_multiplier = 1 + (0.2 * len(risk_factors)) + (0.15 * len(modifiers))
 
-    # Base priors from symptom matching
+    # ── Base priors from symptom matching ────────────────────────────────────
     base_scores = match_diseases(symptoms)
     priors = {disease: float(score) for disease, score in base_scores}
 
-    # Disease-specific answer evidence
+    # ── Disease-specific answer evidence ─────────────────────────────────────
+    # Build a unified signal dict for the evidence map lookup
+    signal_map = {
+        "exertion":             exertion,
+        "chest_severity":       chest_severity,
+        "rest_breathlessness":  rest_breathlessness,
+        "fever":                fever,
+        "sudden_onset":         sudden_onset,
+        "weight_loss":          weight_loss,
+        "age_gt60":             age_gt60,
+        "smoking":              smoking,
+        "diabetes":             diabetes,
+        "hypertension":         hypertension,
+        "cough_duration":       cough_duration,
+    }
+
     answer_evidence: Dict[str, float] = {}
     for disease, prior in priors.items():
         multiplier = 1.0
         disease_rules = DISEASE_EVIDENCE.get(disease, {})
 
-        for key, value in answers.items():
-            if key in disease_rules:
-                if isinstance(value, bool) and value:
-                    multiplier *= disease_rules[key]
-                elif isinstance(value, int):
-                    multiplier *= (1 + (value / 10) * disease_rules[key])
+        for signal_key, rule_value in disease_rules.items():
+            signal = signal_map.get(signal_key)
+            if signal is None:
+                continue
+
+            if isinstance(signal, bool) and signal:
+                # Boolean signal: apply multiplier when True
+                multiplier *= rule_value
+            elif isinstance(signal, int) and signal_key == "chest_severity":
+                # Scale 0–10: apply proportional share of the multiplier
+                multiplier *= (1 + (signal / 10.0) * (rule_value - 1))
 
         multiplier *= free_text_multiplier
         answer_evidence[disease] = multiplier
 
-    # Bayesian update
+    # ── Bayesian update ───────────────────────────────────────────────────────
     posterior_probs = update_probabilities(priors, answer_evidence)
 
-    # Build results — icd per disease, severity computed after top result is known
+    # ── Build results ─────────────────────────────────────────────────────────
     results = []
     for disease, probability in posterior_probs.items():
         icd_info = map_to_icd(disease)
@@ -153,20 +205,21 @@ def create_case(
 
     results.sort(key=lambda x: x["probability_percent"], reverse=True)
 
-    # Get top prediction
+    # ── Top prediction ────────────────────────────────────────────────────────
     top_result = results[0] if results else {}
-    predicted_disease   = top_result.get("disease", "Unknown")
+    predicted_disease    = top_result.get("disease", "Unknown")
     predicted_probability = top_result.get("probability_percent", 0)
-    icd_code            = top_result.get("icd", {})
+    icd_code             = top_result.get("icd", {})
 
-    # Compute severity from disease identity + clinical signals
+    # ── Severity ──────────────────────────────────────────────────────────────
     predicted_severity = determine_severity(
         predicted_disease=predicted_disease,
         confidence=float(predicted_probability) / 100.0,
-        chest_severity=int(answers.get("chest_severity", 0) or 0),
-        exertion=bool(answers.get("exertion", False)),
-        rest_breathlessness=bool(answers.get("rest_breathlessness", False)),
+        chest_severity=chest_severity,
+        exertion=exertion,
+        rest_breathlessness=rest_breathlessness,
     )
+
 
     # Get all admins and find the one with the least pending cases
     admins = db.query(User).filter(User.role == "ADMIN").all()

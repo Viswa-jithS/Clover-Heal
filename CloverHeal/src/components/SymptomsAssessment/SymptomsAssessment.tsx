@@ -12,8 +12,10 @@ interface FormData {
     exertion: boolean | null;
     chestSeverity: number;
     restBreathlessness: boolean | null;
+    suddenOnset: boolean | null;
+    fever: boolean | null;
     duration: string;
-    conditions: string;
+    knownConditions: string[];
     medications: string;
   };
   lifestyle: { smokingStatus: string; alcoholConsumption: string; additionalComments: string; };
@@ -46,8 +48,10 @@ export const SymptomsAssessment = () => {
       exertion: null,
       chestSeverity: 0,
       restBreathlessness: null,
+      suddenOnset: null,
+      fever: null,
       duration: '',
-      conditions: '',
+      knownConditions: [],
       medications: '',
     },
     lifestyle: { smokingStatus: '', alcoholConsumption: '', additionalComments: '' },
@@ -88,6 +92,15 @@ export const SymptomsAssessment = () => {
     if (currentStep > 1) setCurrentStep(prev => (prev - 1) as Step);
   };
 
+  const toggleKnownCondition = (condition: string) =>
+    setFormData(prev => {
+      const list = prev.clinicalContext.knownConditions;
+      const updated = list.includes(condition)
+        ? list.filter(c => c !== condition)
+        : [...list, condition];
+      return { ...prev, clinicalContext: { ...prev.clinicalContext, knownConditions: updated } };
+    });
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (isSubmitting) return;
@@ -95,7 +108,7 @@ export const SymptomsAssessment = () => {
 
     try {
       const { selectedSymptoms } = formData.symptoms;
-      const { exertion, chestSeverity, restBreathlessness, duration, conditions, medications } = formData.clinicalContext;
+      const { exertion, chestSeverity, restBreathlessness, suddenOnset, fever, duration, knownConditions, medications } = formData.clinicalContext;
       const { smokingStatus, alcoholConsumption, additionalComments } = formData.lifestyle;
 
       const payload = {
@@ -104,8 +117,10 @@ export const SymptomsAssessment = () => {
           exertion: exertion ?? false,
           chest_severity: chestSeverity,
           rest_breathlessness: restBreathlessness ?? false,
+          sudden_onset: suddenOnset ?? false,
+          fever: fever ?? false,
           duration,
-          conditions,
+          known_conditions: knownConditions,
           medications,
           smokingStatus,
           alcoholConsumption,
@@ -330,7 +345,35 @@ export const SymptomsAssessment = () => {
               <YesNoToggle label="Do you have shortness of breath at rest (not just during activity)?"
                 value={formData.clinicalContext.restBreathlessness} fieldKey="restBreathlessness" />
 
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+              <YesNoToggle label="Did the symptoms start suddenly (within minutes to hours)?"
+                value={formData.clinicalContext.suddenOnset} fieldKey="suddenOnset" />
+
+              <YesNoToggle label="Do you have a fever (temperature ≥ 38°C / 100.4°F)?"
+                value={formData.clinicalContext.fever} fieldKey="fever" />
+
+              <div className="mb-6 animate-in slide-in-from-bottom-4 duration-500">
+                <label className={labelClasses}>Do you have any of these existing conditions? <span className="text-slate-400 font-normal">(Select all that apply)</span></label>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-2">
+                  {["Diabetes", "Hypertension (High Blood Pressure)", "High Cholesterol", "Chronic Kidney Disease", "Asthma / COPD", "Heart Disease", "Cancer", "HIV / Immunodeficiency"].map(cond => {
+                    const selected = formData.clinicalContext.knownConditions.includes(cond);
+                    return (
+                      <label key={cond} className={`flex items-center gap-3 p-3 border rounded-xl cursor-pointer transition-all duration-200 ${
+                        selected ? 'bg-blue-50 border-blue-300 shadow-sm ring-1 ring-blue-300' : 'bg-white border-slate-200 hover:border-blue-200'
+                      }`}>
+                        <div className={`w-5 h-5 rounded-md flex items-center justify-center border transition-colors flex-shrink-0 ${
+                          selected ? 'bg-blue-600 border-blue-600 text-white' : 'border-slate-300'
+                        }`}>
+                          {selected && <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M5 13l4 4L19 7" /></svg>}
+                        </div>
+                        <input type="checkbox" className="hidden" checked={selected} onChange={() => toggleKnownCondition(cond)} />
+                        <span className={`text-sm ${selected ? 'text-blue-900 font-medium' : 'text-slate-700'}`}>{cond}</span>
+                      </label>
+                    );
+                  })}
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
                 <div className="md:col-span-2">
                   <label className={labelClasses}>How long have you been experiencing these symptoms? *</label>
                   <select className={inputClasses} value={formData.clinicalContext.duration}
@@ -339,14 +382,7 @@ export const SymptomsAssessment = () => {
                   </select>
                 </div>
 
-                <div>
-                  <label className={labelClasses}>Existing medical conditions:</label>
-                  <textarea className={`${inputClasses} h-24 resize-none`} value={formData.clinicalContext.conditions}
-                    onChange={e => handleClinicalChange('conditions', e.target.value)}
-                    placeholder="e.g. Hypertension, Diabetes, Asthma..." />
-                </div>
-
-                <div>
+                <div className="md:col-span-2">
                   <label className={labelClasses}>Current medications or supplements:</label>
                   <textarea className={`${inputClasses} h-24 resize-none`} value={formData.clinicalContext.medications}
                     onChange={e => handleClinicalChange('medications', e.target.value)}
