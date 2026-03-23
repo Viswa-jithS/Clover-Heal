@@ -1,0 +1,63 @@
+# Node.js / Frontend
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env_python/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.sqlite3
+*.db
+alembic.ini
+
+# Environment variables / Secrets
+.env
+.env.*
+!.env.example
+
+# OS / Systems
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs_vista.db
+[Tt]humbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.cursorrules
+.cursor/
+
+# Logs
+logs/
+*.log
+
+# Temp files
+tmp/
+temp/
+data/
+DATASET/
+models/

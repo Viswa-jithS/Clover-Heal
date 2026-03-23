@@ -1,0 +1,165 @@
+{
+  "nodes": [
+    {
+      "id": "src/pages/Home.tsx",
+      "label": "Home",
+      "routes": [
+        "/"
+      ],
+      "isRoot": true
+    },
+    {
+      "id": "src/pages/Assessment.tsx",
+      "label": "Assessment",
+      "routes": [
+        "/assessment"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "src\\components\\Header\\Header.tsx:15:12-to-src\\pages\\Home.tsx",
+      "source": "src\\pages\\Home.tsx",
+      "target": "src\\pages\\Home.tsx",
+      "data": {
+        "viaRoute": "/",
+        "trigger": {
+          "element": "<Link to=\"/\">\r\n              <h2 className=\"text-2xl font-bold bg-gradient-to-r from-blue-600 to-teal-400 bg-clip-text text-transparent hover:opacity-80 transition-opacity\">\r\n                CloverHeal\r\n              </h2>\r\n            </Link>",
+          "line": 15,
+          "endLine": 19,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\components\\Header\\Header.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\Header\\Header.tsx:30:12-to-src\\pages\\Assessment.tsx",
+      "source": "src\\pages\\Home.tsx",
+      "target": "src\\pages\\Assessment.tsx",
+      "data": {
+        "viaRoute": "/assessment",
+        "trigger": {
+          "element": "<Link to=\"/assessment\" className=\"btn-primary bg-gradient-to-r from-blue-600 to-teal-500 hover:from-blue-700 hover:to-teal-600 text-white px-6 py-2.5 rounded-full font-medium shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all duration-300\">\r\n              Enter Symptoms\r\n            </Link>",
+          "line": 30,
+          "endLine": 32,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\components\\Header\\Header.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\Hero\\Hero.tsx:26:14-to-src\\pages\\Assessment.tsx",
+      "source": "src\\pages\\Home.tsx",
+      "target": "src\\pages\\Assessment.tsx",
+      "data": {
+        "viaRoute": "/assessment",
+        "trigger": {
+          "element": "<Link to=\"/assessment\" className=\"btn-primary bg-gradient-to-r from-blue-600 to-teal-500 hover:from-blue-700 hover:to-teal-600 text-white px-8 py-3.5 rounded-full font-semibold shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 flex items-center gap-2\">\r\n                Start Assessment <span className=\"text-xl\">→</span>\r\n              </Link>",
+          "line": 26,
+          "endLine": 28,
+          "column": 14,
+          "endColumn": 21,
+          "sourceFile": "src\\components\\Hero\\Hero.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\Footer\\Footer.tsx:33:18-to-src\\pages\\Home.tsx",
+      "source": "src\\pages\\Home.tsx",
+      "target": "src\\pages\\Home.tsx",
+      "data": {
+        "viaRoute": "/",
+        "trigger": {
+          "element": "<Link to=\"/\" className=\"hover:text-teal-400 transition-colors flex items-center gap-2\"><span className=\"text-xs\">▶</span> Home</Link>",
+          "line": 33,
+          "endLine": 33,
+          "column": 18,
+          "endColumn": 151,
+          "sourceFile": "src\\components\\Footer\\Footer.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\Footer\\Footer.tsx:37:18-to-src\\pages\\Assessment.tsx",
+      "source": "src\\pages\\Home.tsx",
+      "target": "src\\pages\\Assessment.tsx",
+      "data": {
+        "viaRoute": "/assessment",
+        "trigger": {
+          "element": "<Link to=\"/assessment\" className=\"text-teal-400 hover:text-teal-300 font-medium transition-colors flex items-center gap-2\"><span className=\"text-xs\">▶</span> AI Assessment</Link>",
+          "line": 37,
+          "endLine": 37,
+          "column": 18,
+          "endColumn": 196,
+          "sourceFile": "src\\components\\Footer\\Footer.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\Header\\Header.tsx:15:12-to-src\\pages\\Home.tsx",
+      "source": "src\\pages\\Home.tsx",
+      "target": "src\\pages\\Home.tsx",
+      "data": {
+        "viaRoute": "/",
+        "trigger": {
+          "element": "<Link to=\"/\">\r\n              <h2 className=\"text-2xl font-bold bg-gradient-to-r from-blue-600 to-teal-400 bg-clip-text text-transparent hover:opacity-80 transition-opacity\">\r\n                CloverHeal\r\n              </h2>\r\n            </Link>",
+          "line": 15,
+          "endLine": 19,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\components\\Header\\Header.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\Header\\Header.tsx:30:12-to-src\\pages\\Assessment.tsx",
+      "source": "src\\pages\\Home.tsx",
+      "target": "src\\pages\\Assessment.tsx",
+      "data": {
+        "viaRoute": "/assessment",
+        "trigger": {
+          "element": "<Link to=\"/assessment\" className=\"btn-primary bg-gradient-to-r from-blue-600 to-teal-500 hover:from-blue-700 hover:to-teal-600 text-white px-6 py-2.5 rounded-full font-medium shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all duration-300\">\r\n              Enter Symptoms\r\n            </Link>",
+          "line": 30,
+          "endLine": 32,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src\\components\\Header\\Header.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\Footer\\Footer.tsx:33:18-to-src\\pages\\Home.tsx",
+      "source": "src\\pages\\Home.tsx",
+      "target": "src\\pages\\Home.tsx",
+      "data": {
+        "viaRoute": "/",
+        "trigger": {
+          "element": "<Link to=\"/\" className=\"hover:text-teal-400 transition-colors flex items-center gap-2\"><span className=\"text-xs\">▶</span> Home</Link>",
+          "line": 33,
+          "endLine": 33,
+          "column": 18,
+          "endColumn": 151,
+          "sourceFile": "src\\components\\Footer\\Footer.tsx"
+        }
+      }
+    },
+    {
+      "id": "src\\components\\Footer\\Footer.tsx:37:18-to-src\\pages\\Assessment.tsx",
+      "source": "src\\pages\\Home.tsx",
+      "target": "src\\pages\\Assessment.tsx",
+      "data": {
+        "viaRoute": "/assessment",
+        "trigger": {
+          "element": "<Link to=\"/assessment\" className=\"text-teal-400 hover:text-teal-300 font-medium transition-colors flex items-center gap-2\"><span className=\"text-xs\">▶</span> AI Assessment</Link>",
+          "line": 37,
+          "endLine": 37,
+          "column": 18,
+          "endColumn": 196,
+          "sourceFile": "src\\components\\Footer\\Footer.tsx"
+        }
+      }
+    }
+  ]
+}

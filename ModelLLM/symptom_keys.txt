@@ -1,0 +1,443 @@
+umls:c0008031_pain  chest
+umls:c0392680_shortness  of breath
+umls:c0012833_dizziness
+umls:c0004093_asthenia
+umls:c0085639_fall
+umls:c0039070_syncope
+umls:c0042571_vertigo
+umls:c0038990_sweat^umls:c0700590_sweating  increased
+umls:c0030252_palpitation
+umls:c0027497_nausea
+umls:c0002962_angina  pectoris
+umls:c0438716_pressure  chest
+umls:c0032617_polyuria
+umls:c0085602_polydypsia
+umls:c0085619_orthopnea
+umls:c0034642_rale
+umls:c0241526_unresponsiveness
+umls:c0856054_mental  status changes
+umls:c0042963_vomiting
+umls:c0553668_labored breathing
+umls:c0424000_feeling  suicidal
+umls:c0438696_suicidal
+umls:c0233762_hallucinations  auditory
+umls:c0150041_feeling  hopeless
+umls:c0424109_weepiness
+umls:c0917801_sleeplessness
+umls:c0424230_motor  retardation
+umls:c0022107_irritable  mood
+umls:c0312422_blackout
+umls:c0344315_mood  depressed
+umls:c0233763_hallucinations  visual
+umls:c0233481_worry
+umls:c0085631_agitation
+umls:c0040822_tremor
+umls:c0728899_intoxication
+umls:c0424068_verbal  auditory hallucinations
+umls:c0455769_energy  increased
+umls:c1299586_difficulty
+umls:c0028084_nightmare
+umls:c0235198_unable  to concentrate
+umls:c0237154_homelessness
+umls:c0086439_hypokinesia
+umls:c0231807_dyspnea  on exertion
+umls:c0232292_chest  tightness
+umls:c0010200_cough
+umls:c0015967_fever
+umls:c0029053_decreased  translucency
+umls:c0239134_productive  cough
+umls:c0008033_pleuritic  pain
+umls:c0457096_yellow  sputum
+umls:c0238844_breath  sounds decreased
+umls:c0085593_chill
+umls:c0035508_rhonchus
+umls:c0457097_green  sputum
+umls:c0850149_non-productive  cough
+umls:c0043144_wheezing
+umls:c0019079_haemoptysis
+umls:c0476273_distress  respiratory
+umls:c0231835_tachypnea
+umls:c0231218_malaise
+umls:c0028081_night  sweat
+umls:c0240100_jugular  venous distention
+umls:c0013404_dyspnea
+umls:c0013362_dysarthria
+umls:c0234518_speech  slurred
+umls:c0427055_facial  paresis
+umls:c0018991_hemiplegia
+umls:c0036572_seizure
+umls:c0028643_numbness
+umls:c0436331_symptom  aggravating factors
+umls:c0008031_pain chest
+umls:c0520886_st segment elevation
+umls:c0038990_sweat^umls:c0700590_sweating increased
+umls:c0392680_shortness of breath
+umls:c0520887_st segment depression
+umls:c0002962_angina pectoris
+umls:c0438716_pressure chest
+umls:c0520888_t wave inverted
+umls:c0232292_chest tightness
+umls:c1305739_presence of q wave
+umls:c0235710_chest discomfort
+umls:c0428977_bradycardia
+umls:c0030193_pain
+umls:c0337672_nonsmoker
+umls:c0041834_erythema
+umls:c0029053_decreased translucency
+umls:c0019214_hepatosplenomegaly
+umls:c0033774_pruritus
+umls:c0011991_diarrhea
+umls:c0549483_abscess bacterial
+umls:c0038999_swelling
+umls:c0277797_apyrexial
+umls:c0013428_dysuria
+umls:c0018965_hematuria
+umls:c0235634_renal angle tenderness
+umls:c0023380_lethargy
+umls:c0020625_hyponatremia
+umls:c0578150_hemodynamically stable
+umls:c0476273_distress respiratory
+umls:c0241705_difficulty passing urine
+umls:c0856054_mental status changes
+umls:c0239110_consciousness clear
+umls:c0744492_guaiac positive
+umls:c0746619_monoclonal
+umls:c0013491_ecchymosis
+umls:c1269955_tumor cell invasion
+umls:c0019080_haemorrhage
+umls:c0030232_pallor
+umls:c0015672_fatigue
+umls:c0744740_heme positive
+umls:c0004604_pain back
+umls:c0149746_orthostasis
+umls:c0003862_arthralgia
+umls:c1096646_transaminitis
+umls:c0241235_sputum purulent
+umls:c0700292_hypoxemia
+umls:c0020440_hypercapnia
+umls:c0376405_patient non compliance
+umls:c0041657_unconscious state
+umls:c0425251_bedridden^umls:c0741453_bedridden
+umls:c0427055_facial paresis
+umls:c0232498_abdominal tenderness
+umls:c1273573_unsteady gait
+umls:c0233762_hallucinations auditory
+umls:c0020461_hyperkalemia
+umls:c0085606_urgency of micturition
+umls:c0003962_ascites
+umls:c0020649_hypotension
+umls:c0238844_breath sounds decreased
+umls:c0014394_enuresis
+umls:c0234518_speech slurred
+umls:c0232766_asterixis
+umls:c0231530_muscle twitch
+umls:c0234450_sleepy
+umls:c0018681_headache
+umls:c0220870_lightheadedness
+umls:c0149696_food  intolerance
+umls:c0239832_numbness  of hand
+umls:c0858924_general  discomfort
+umls:c0013144_drowsiness
+umls:c0427008_stiffness
+umls:c1273573_unsteady  gait
+umls:c0242453_prostatism
+umls:c0013144_drowsiness^umls:c0234450_sleepy
+umls:c0043094_weight gain
+umls:c0015672_fatigue^umls:c0557875_tired
+umls:c0424230_motor retardation
+umls:c0577559_mass of body structure
+umls:c0424000_feeling suicidal
+umls:c0150041_feeling hopeless
+umls:c0022107_irritable mood
+umls:c0557075_has religious belief
+umls:c0027769_nervousness
+umls:c0233763_hallucinations visual
+umls:c0016579_formication
+umls:c0344315_mood depressed
+umls:c0600142_hot flush
+umls:c0221198_lesion
+umls:c0332601_cushingoid facies^umls:c0878661_cushingoid habitus
+umls:c0743482_emphysematous change
+umls:c0043096_decreased body weight
+umls:c0019825_hoarseness
+umls:c0205400_thicken
+umls:c0028081_night sweat
+umls:c0233308_spontaneous rupture of membranes
+umls:c0032739_
+umls:c0008033_pleuritic pain
+umls:c0239134_productive cough
+umls:c0026827_muscle hypotonia^umls:c0241938_hypotonic
+umls:c0332575_redness
+umls:c0020580_hypesthesia
+umls:c0034880_hyperacusis
+umls:c1384489_scratch marks
+umls:c0234233_sore to touch
+umls:c0085624_burning sensation
+umls:c0239233_satiety early
+umls:c1444773_throbbing sensation quality
+umls:c0234215_sensory discomfort
+umls:c0858924_general discomfort
+umls:c0009806_constipation
+umls:c0000737_pain abdominal
+umls:c0018834_heartburn
+umls:c0006157_breech presentation
+umls:c0010520_cyanosis
+umls:c0023222_pain in lower limb
+umls:c0018800_cardiomegaly
+umls:c0009024_clonus
+umls:c0850149_non-productive cough
+umls:c0857256_unwell
+umls:c0003123_anorexia
+umls:c0039070_syncope^umls:c0312422_blackout^umls:c0424533_history  of - blackout
+umls:c0003126_anosmia
+umls:c1513183_metastatic lesion
+umls:c0149696_food intolerance
+umls:c0271202_hemianopsia homonymous
+umls:c0744727_hematocrit decreased
+umls:c0151315_neck stiffness
+umls:c0457096_yellow sputum
+umls:c0008767_cicatrisation
+umls:c0347938_hypometabolism
+umls:c0236018_aura
+umls:c0027066_myoclonus
+umls:c0232517_gurgle
+umls:c0558195_wheelchair bound
+umls:c0240100_jugular venous distention
+umls:c0231807_dyspnea on exertion
+umls:c0238705_left atrial hypertrophy
+umls:c0028961_oliguria
+umls:c0007398_catatonia
+umls:c0847488_unhappy
+umls:c0030554_paresthesia
+umls:c0232995_gravida 0
+umls:c0034079_lung nodule
+umls:c0000731_distended abdomen
+umls:c0234238_ache
+umls:c0558143_macerated skin
+umls:c0581912_heavy feeling
+umls:c0234253_rest pain
+umls:c0232201_sinus rhythm
+umls:c0424068_verbal auditory hallucinations
+umls:c0424092_withdraw
+umls:c0455769_energy increased
+umls:c0424295_behavior hyperactive
+umls:c0558261_terrify
+umls:c0085635_photopsia
+umls:c0392701_giddy mood
+umls:c0578859_disturbed family
+umls:c0917799_hypersomnia
+umls:c0020458_hyperhidrosis disorder
+umls:c0026961_mydriasis
+umls:c0234133_extrapyramidal sign
+umls:c0240233_loose associations
+umls:c0392674_exhaustion
+umls:c0037384_snore
+umls:c0429091_r wave feature
+umls:c0497406_overweight
+umls:c0232257_systolic murmur
+umls:c0231221_asymptomatic
+umls:c0038002_splenomegaly
+umls:c0151706_bleeding of vagina
+umls:c0332573_macule
+umls:c0085636_photophobia
+umls:c0221150_painful swallowing
+umls:c0006625_cachexia
+umls:c0020598_hypocalcemia result
+umls:c0020672_hypothermia, natural
+umls:c0741302_atypia
+umls:c0427108_general unsteadiness
+umls:c0242429_throat sore
+umls:c1260880_snuffle
+umls:c0239133_hacking cough
+umls:c0038450_stridor
+umls:c0030552_paresis
+umls:c0221470_aphagia
+umls:c0751495_focal seizures
+umls:c0423571_abnormal sensation
+umls:c0085628_stupor
+umls:c0231890_fremitus
+umls:c0271276_stahli's line
+umls:c0677500_stinging sensation
+umls:c0522224_paralyse
+umls:c0019572_hirsutism
+umls:c0558361_sniffle
+umls:c0000731_distended  abdomen
+umls:c0233565_bradykinesia
+umls:c0848168_out  of breath
+umls:c0150045_urge  incontinence
+umls:c0344232_vision blurred
+umls:c0848277_room spinning
+umls:c0423982_rambling speech
+umls:c0233844_clumsiness
+umls:c0278014_decreased stool caliber
+umls:c0018932_hematochezia
+umls:c0231872_egophony
+umls:c0008767_cicatrisation^umls:c0241158_scar tissue
+umls:c0233647_neologism
+umls:c0231187_decompensation
+umls:c0241252_stool color yellow
+umls:c0424790_rigor - temperature-associated observation
+umls:c0221166_paraparesis
+umls:c0150045_urge incontinence
+umls:c0554980_moody
+umls:c0877040_fear of falling
+umls:c0037763_spasm
+umls:c0020578_hyperventilation
+umls:c0278141_excruciating pain
+umls:c0016927_gag
+umls:c0872410_posturing
+umls:c0277899_pulse absent
+umls:c0392699_dysesthesia
+umls:c0521516_polymyalgia
+umls:c0848621_passed stones
+umls:c0151878_qt interval prolonged
+umls:c0004134_ataxia
+umls:c0018862_heberden's node
+umls:c0019209_hepatomegaly
+umls:c0036396_sciatica
+umls:c0577979_frothy sputum
+umls:c0024103_mass in breast
+umls:c0277845_retropulsion
+umls:c0239301_estrogen use
+umls:c0751229_hypersomnolence
+umls:c0041667_underweight^umls:c1319518_underweight
+umls:c0541911_dullness
+umls:c0857199_red blotches
+umls:c0232488_colic abdominal
+umls:c0020621_hypokalemia
+umls:c0848168_out of breath
+umls:c0020175_hunger
+umls:c0240813_prostate tender
+umls:c0016512_pain foot
+umls:c0152032_urinary hesitation
+umls:c0281825_disequilibrium
+umls:c0016382_flushing
+umls:c0085632_indifferent mood
+umls:c1313921_urinoma
+umls:c0239981_hypoalbuminemia
+umls:c0241157_pustule
+umls:c0232854_slowing of urinary stream
+umls:c0277794_extreme exhaustion
+umls:c0442739_no status change
+umls:c1135120_breakthrough pain
+umls:c0457097_green sputum
+umls:c0232258_pansystolic murmur
+umls:c0694547_systolic ejection murmur
+umls:c0848340_stuffy nose
+umls:c0234866_barking cough
+umls:c0425488_rapid shallow breathing
+umls:c0237304_noisy respiration
+umls:c0264273_nasal discharge present
+umls:c0871754_frail
+umls:c1511606_cystic lesion
+umls:c0436331_symptom aggravating factors
+umls:c0221151_projectile vomiting
+umls:c0581911_heavy legs
+umls:c0231690_titubation
+umls:c0234979_dysdiadochokinesia
+umls:c1321756_achalasia
+umls:c0748706_side pain
+umls:c0085702_monocytosis
+umls:c0032781_posterior rhinorrhea
+umls:c0542044_incoherent
+umls:c0311395_lameness^umls:c1456822_claudication
+umls:c0392162_clammy skin
+umls:c0264576_mediastinal shift
+umls:c0027498_nausea and vomiting
+umls:c0541798_awakening early
+umls:c0232726_tenesmus
+umls:c1167754_fecaluria
+umls:c0232894_pneumatouria
+umls:c0235198_unable to concentrate
+umls:c0234544_todd paralysis
+umls:c0740880_alcoholic withdrawal symptoms
+umls:c0231528_myalgia
+umls:c1384606_dyspareunia
+umls:c0149758_poor dentition
+umls:c0857516_floppy
+umls:c0233467_inappropriate affect
+umls:c0576456_poor feeding
+umls:c0859032_moan
+umls:c0221232_welt
+umls:c0040264_tinnitus
+umls:c0020303_hydropneumothorax
+umls:c0429562_superimposition
+umls:c0235129_feeling strange
+umls:c0242143_uncoordination
+umls:c0424530_absences finding
+umls:c0270844_tonic seizures
+umls:c0742985_debilitation
+umls:c0338656_impaired cognition
+umls:c0013132_drool
+umls:c0235231_pin-point pupils
+umls:c0234379_tremor resting
+umls:c0541992_groggy
+umls:c0559546_adverse reaction^umls:c0879626_adverse effect
+umls:c1291077_abdominal bloating
+umls:c0231230_fatigability
+umls:c0233071_para 2
+umls:c0156543_abortion
+umls:c0232943_intermenstrual heavy bleeding
+umls:c0232997_previous pregnancies 2
+umls:c0860096_primigravida
+umls:c0702118_abnormally  hard consistency
+umls:c1405524_proteinemia
+umls:c0041657_unconscious  state
+umls:c0085624_burning  sensation
+umls:c0007859_pain neck
+umls:c0857087_dizzy spells
+umls:c0278146_shooting pain
+umls:c0235250_hyperemesis
+umls:c0443260_milky
+umls:c0232605_regurgitates after swallowing
+umls:c0542073_lip smacking
+umls:c0751466_phonophobia
+umls:c0522336_rolling of eyes
+umls:c0002416_ambidexterity
+umls:c0232118_pulsus paradoxus
+umls:c1291692_gravida 10
+umls:c0006318_bruit
+umls:c0476287_breath-holding spell
+umls:c0240962_scleral icterus
+umls:c0232602_retch
+umls:c0948786_blanch
+umls:c0233492_elation
+umls:c0558089_verbally abusive behavior
+umls:c0558141_transsexual
+umls:c0474395_behavior showing increased motor activity
+umls:c0241158_scar tissue
+umls:c0520966_coordination abnormal
+umls:c0008301_choke
+umls:c0232695_bowel sounds decreased
+umls:c0239832_numbness of hand
+umls:c0262581_no known drug allergies
+umls:c0024031_low back pain
+umls:c0277823_charleyhorse
+umls:c0205254_sedentary
+umls:c0424749_feels hot/feverish
+umls:c1517205_flare
+
+umls:c0232267_pericardial friction rub
+umls:c0424337_hoard
+umls:c0030318_panic
+umls:c0425560_cardiovascular  finding^umls:c1320716_cardiovascular event
+umls:c0037580_soft tissue swelling
+umls:c0427629_rhd positive
+umls:c0233070_para 1
+umls:c0277873_nasal flaring
+umls:c0037383_sneeze
+umls:c0235396_hypertonicity
+umls:c0277977_murphy's sign
+umls:c0016204_flatulence
+umls:c0425449_gasping for breath
+umls:c0474505_feces in rectum
+umls:c0702118_abnormally hard consistency
+umls:c0240805_prodrome
+umls:c0020639_hypoproteinemia
+umls:c0556346_alcohol binge episode
+umls:c0000727_abdomen acute
+umls:c0740844_air fluid level
+umls:c0425491_catching breath
+umls:c0456091_large-for-dates fetus
+umls:c0231441_immobile
+umls:c0455204_homicidal thoughts

@@ -1,0 +1,25 @@
+{
+  "diseases": ["Diabetes", "Heart Disease", "Asthma"],
+  "symptoms": {
+    "Diabetes": [
+      "Frequent urination",
+      "Excessive thirst",
+      "Fatigue",
+      "Blurred vision",
+      "Unexpected weight loss"
+    ],
+    "Heart Disease": [
+      "Chest pain",
+      "Shortness of breath",
+      "Palpitations",
+      "Swelling in legs",
+      "Dizziness"
+    ],
+    "Asthma": [
+      "Coughing",
+      "Wheezing",
+      "Shortness of breath",
+      "Chest tightness"
+    ]
+  }
+}

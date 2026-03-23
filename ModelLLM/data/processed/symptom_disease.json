@@ -1,0 +1,10218 @@
+{
+  "umls:c0008031_pain  chest": [
+    {
+      "disease": "UMLS:C0020538_hypertensive  disease",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0010054_coronary  arteriosclerosis^UMLS:C0010068_coronary heart disease",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0392680_shortness  of breath": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0018802_failure  heart congestive",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0012833_dizziness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0004093_asthenia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0442874_neuropathy",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085639_fall": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0017601_glaucoma",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0039070_syncope": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0042571_vertigo": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0038990_sweat^umls:c0700590_sweating  increased": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0030252_palpitation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0027497_nausea": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0002962_angina  pectoris": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0438716_pressure  chest": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0032617_polyuria": [
+    {
+      "disease": "UMLS:C0011847_diabetes",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0011880_ketoacidosis  diabetic",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085602_polydypsia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085619_orthopnea": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0013405_paroxysmal  dyspnea",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0035078_failure  kidney",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0018801_failure  heart",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0034642_rale": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0546817_overload  fluid",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0241526_unresponsiveness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0020615_hypoglycemia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0856054_mental  status changes": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0042963_vomiting": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0022661_chronic  kidney failure",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0030305_pancreatitis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0008350_cholelithiasis^UMLS:C0242216_biliary  calculus",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0553668_labored breathing": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424000_feeling  suicidal": [
+    {
+      "disease": "UMLS:C0011570_depression  mental^UMLS:C0011581_depressive disorder",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0438696_suicidal": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0033975_psychotic  disorder",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233762_hallucinations  auditory": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0150041_feeling  hopeless": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424109_weepiness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0917801_sleeplessness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424230_motor  retardation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0022107_irritable  mood": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0312422_blackout": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0344315_mood  depressed": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233763_hallucinations  visual": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233481_worry": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0700613_anxiety  state",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085631_agitation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0040822_tremor": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0001973_chronic  alcoholic intoxication",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0728899_intoxication": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0439857_dependence",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424068_verbal  auditory hallucinations": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0455769_energy  increased": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1299586_difficulty": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0028084_nightmare": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0031212_personality  disorder",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0235198_unable  to concentrate": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0237154_homelessness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0086439_hypokinesia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0087086_thrombus",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231807_dyspnea  on exertion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232292_chest  tightness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0010200_cough": [
+    {
+      "disease": "UMLS:C0032285_pneumonia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0006277_bronchitis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0041912_upper  respiratory infection",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0015967_fever": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0021311_infection",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0042029_infection  urinary tract",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0497327_dementia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0001175_acquired  immuno-deficiency  syndrome^UMLS:C0019682_HIV^UMLS:C0019693_hiv infections",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0036690_septicemia^UMLS:C0243026_systemic  infection^UMLS:C1090821_sepsis (invertebrate)",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0011175_dehydration",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0015230_exanthema",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0004610_bacteremia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0009319_colitis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0034186_pyelonephritis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0029053_decreased  translucency": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0239134_productive  cough": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0008033_pleuritic  pain": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0457096_yellow  sputum": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0238844_breath  sounds decreased": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085593_chill": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0002871_anemia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0035508_rhonchus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0457097_green  sputum": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0850149_non-productive  cough": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0043144_wheezing": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0004096_asthma",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0019079_haemoptysis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0476273_distress  respiratory": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231835_tachypnea": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231218_malaise": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0028081_night  sweat": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0240100_jugular  venous distention": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0013404_dyspnea": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0032326_pneumothorax",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0013362_dysarthria": [
+    {
+      "disease": "UMLS:C0038454_accident  cerebrovascular",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0018989_hemiparesis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234518_speech  slurred": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0427055_facial  paresis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0018991_hemiplegia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C1145670_respiratory  failure",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0036572_seizure": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0009676_confusion",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0014544_epilepsy",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0028643_numbness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0436331_symptom  aggravating factors": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0008031_pain chest": [
+    {
+      "disease": "UMLS:C0027051_myocardial  infarction",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0020473_hyperlipidemia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0520886_st segment elevation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0038990_sweat^umls:c0700590_sweating increased": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0392680_shortness of breath": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0024117_chronic  obstructive airway disease",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C1565489_insufficiency  renal",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0020676_hypothyroidism",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0034065_embolism  pulmonary",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0878544_cardiomyopathy",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0085096_peripheral  vascular disease",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0026266_mitral  valve insufficiency",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0020542_hypertension  pulmonary",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0040961_tricuspid  valve insufficiency",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0022658_kidney  disease",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0006266_spasm  bronchial",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0520887_st segment depression": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0002962_angina pectoris": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0438716_pressure chest": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0520888_t wave inverted": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232292_chest tightness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1305739_presence of q wave": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0235710_chest discomfort": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0428977_bradycardia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0030193_pain": [
+    {
+      "disease": "UMLS:C0020443_hypercholesterolemia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0029408_degenerative  polyarthritis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0006826_malignant  neoplasms^UMLS:C1306459_primary malignant neoplasm",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0017168_gastroesophageal  reflux disease",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0028754_obesity",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0003864_arthritis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0024228_lymphatic  diseases",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0029443_osteomyelitis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0337672_nonsmoker": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0041834_erythema": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0007642_cellulitis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0029053_decreased translucency": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0019214_hepatosplenomegaly": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0033774_pruritus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0011991_diarrhea": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0006840_candidiasis^UMLS:C0006849_oral  candidiasis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0549483_abscess bacterial": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C1258215_ileus",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0038999_swelling": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0149871_deep  vein thrombosis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0277797_apyrexial": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0013428_dysuria": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0018965_hematuria": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0376358_malignant  neoplasm of prostate^UMLS:C0600139_carcinoma prostate",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0235634_renal angle tenderness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0023380_lethargy": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020625_hyponatremia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0578150_hemodynamically stable": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0476273_distress respiratory": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0241705_difficulty passing urine": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0856054_mental status changes": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0005001_benign  prostatic hypertrophy",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0239110_consciousness clear": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0744492_guaiac positive": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0746619_monoclonal": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0013491_ecchymosis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0040034_thrombocytopaenia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1269955_tumor cell invasion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0019080_haemorrhage": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0019112_hemorrhoids",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0030232_pallor": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0015672_fatigue": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0744740_heme positive": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0017152_gastritis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0004604_pain back": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0149746_orthostasis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0003862_arthralgia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1096646_transaminitis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0027947_neutropenia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0241235_sputum purulent": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0700292_hypoxemia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020440_hypercapnia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0376405_patient non compliance": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0041657_unconscious state": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0425251_bedridden^umls:c0741453_bedridden": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0427055_facial paresis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232498_abdominal tenderness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1273573_unsteady gait": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0011206_delirium",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233762_hallucinations auditory": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C1456784_paranoia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0036341_schizophrenia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0038663_suicide  attempt",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020461_hyperkalemia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0022660_kidney  failure acute",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085606_urgency of micturition": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0034063_edema  pulmonary",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0003962_ascites": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0019196_hepatitis  C",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C1623038_cirrhosis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0019158_hepatitis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020649_hypotension": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0238844_breath sounds decreased": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0014394_enuresis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234518_speech slurred": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0007787_transient  ischemic attack",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232766_asterixis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231530_muscle twitch": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234450_sleepy": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0018681_headache": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0220870_lightheadedness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0149696_food  intolerance": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0239832_numbness  of hand": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0858924_general  discomfort": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0013144_drowsiness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0014549_tonic-clonic  epilepsy^UMLS:C0494475_tonic-clonic seizures",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0427008_stiffness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1273573_unsteady  gait": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0242453_prostatism": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0029456_osteoporosis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0013144_drowsiness^umls:c0234450_sleepy": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0022116_ischemia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0043094_weight gain": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0015672_fatigue^umls:c0557875_tired": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424230_motor retardation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0577559_mass of body structure": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0027651_neoplasm",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0007097_carcinoma",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0001418_adenocarcinoma",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0025202_melanoma",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0019204_primary  carcinoma of the liver cells",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424000_feeling suicidal": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0005586_bipolar  disorder",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0150041_feeling hopeless": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0022107_irritable mood": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0557075_has religious belief": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0027769_nervousness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233763_hallucinations visual": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0016579_formication": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0344315_mood depressed": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0600142_hot flush": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0018099_gout",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0221198_lesion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0024299_lymphoma",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0007102_malignant  tumor of colon^UMLS:C0699790_carcinoma colon",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0242379_malignant  neoplasm of lung^UMLS:C0684249_carcinoma of lung",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0332601_cushingoid facies^umls:c0878661_cushingoid habitus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0743482_emphysematous change": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0043096_decreased body weight": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0019825_hoarseness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0205400_thicken": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0027627_neoplasm  metastasis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0028081_night sweat": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233308_spontaneous rupture of membranes": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0032739_": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0008033_pleuritic pain": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0014118_endocarditis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0239134_productive cough": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0026827_muscle hypotonia^umls:c0241938_hypotonic": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0332575_redness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020580_hypesthesia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0034880_hyperacusis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1384489_scratch marks": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234233_sore to touch": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0020456_hyperglycemia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085624_burning sensation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0239233_satiety early": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1444773_throbbing sensation quality": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234215_sensory discomfort": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0858924_general discomfort": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0009806_constipation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0000737_pain abdominal": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0019270_hernia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0012813_diverticulitis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0030920_ulcer  peptic",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0017160_gastroenteritis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0019291_hernia  hiatal",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0018834_heartburn": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0006157_breech presentation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0010520_cyanosis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0020433_hyperbilirubinemia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0023222_pain in lower limb": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0018800_cardiomegaly": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0009024_clonus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0003537_aphasia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0850149_non-productive cough": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0857256_unwell": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0003123_anorexia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0039070_syncope^umls:c0312422_blackout^umls:c0424533_history  of - blackout": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0003126_anosmia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1513183_metastatic lesion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0149696_food intolerance": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0271202_hemianopsia homonymous": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0744727_hematocrit decreased": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0151315_neck stiffness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0457096_yellow sputum": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0032305_Pneumocystis  carinii pneumonia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0008767_cicatrisation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0347938_hypometabolism": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0236018_aura": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0027066_myoclonus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232517_gurgle": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0558195_wheelchair bound": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0240100_jugular venous distention": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231807_dyspnea on exertion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0003507_stenosis  aortic valve",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0238705_left atrial hypertrophy": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0039239_tachycardia  sinus",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0028961_oliguria": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0007398_catatonia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0847488_unhappy": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0030554_paresthesia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0011168_deglutition  disorder",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232995_gravida 0": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0034079_lung nodule": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0000731_distended abdomen": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234238_ache": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0558143_macerated skin": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0581912_heavy feeling": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234253_rest pain": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232201_sinus rhythm": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424068_verbal auditory hallucinations": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424092_withdraw": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0455769_energy increased": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0024713_manic  disorder",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424295_behavior hyperactive": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0558261_terrify": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085635_photopsia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0392701_giddy mood": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0578859_disturbed family": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0917799_hypersomnia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020458_hyperhidrosis disorder": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0026961_mydriasis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234133_extrapyramidal sign": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0240233_loose associations": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0011253_delusion",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0392674_exhaustion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0037384_snore": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0429091_r wave feature": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0497406_overweight": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232257_systolic murmur": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0011127_decubitus  ulcer",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231221_asymptomatic": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0038002_splenomegaly": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0151706_bleeding of vagina": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0332573_macule": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085636_photophobia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0221150_painful swallowing": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0006625_cachexia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020598_hypocalcemia result": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020672_hypothermia, natural": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0741302_atypia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0427108_general unsteadiness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0242429_throat sore": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1260880_snuffle": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0239133_hacking cough": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0038450_stridor": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0030552_paresis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0221470_aphagia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0751495_focal seizures": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0423571_abnormal sensation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085628_stupor": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231890_fremitus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0271276_stahli's line": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0677500_stinging sensation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0522224_paralyse": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0019572_hirsutism": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0558361_sniffle": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0000731_distended  abdomen": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233565_bradykinesia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0848168_out  of breath": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0150045_urge  incontinence": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0344232_vision blurred": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0848277_room spinning": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0423982_rambling speech": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233844_clumsiness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0278014_decreased stool caliber": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0018932_hematochezia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231872_egophony": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0008767_cicatrisation^umls:c0241158_scar tissue": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233647_neologism": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231187_decompensation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0241252_stool color yellow": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424790_rigor - temperature-associated observation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0221166_paraparesis": [
+    {
+      "disease": "UMLS:C0021167_incontinence",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0150045_urge incontinence": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0554980_moody": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0877040_fear of falling": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0037763_spasm": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020578_hyperventilation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0278141_excruciating pain": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0016927_gag": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0872410_posturing": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0277899_pulse absent": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0392699_dysesthesia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0521516_polymyalgia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0848621_passed stones": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0151878_qt interval prolonged": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0004134_ataxia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0018862_heberden's node": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0019209_hepatomegaly": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0036396_sciatica": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0577979_frothy sputum": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0024103_mass in breast": [
+    {
+      "disease": "UMLS:C0006142_malignant  neoplasm of breast^UMLS:C0678222_carcinoma breast",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0277845_retropulsion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0239301_estrogen use": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0751229_hypersomnolence": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0041667_underweight^umls:c1319518_underweight": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0541911_dullness": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0857199_red blotches": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232488_colic abdominal": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020621_hypokalemia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0848168_out of breath": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0028756_obesity  morbid",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020175_hunger": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0240813_prostate tender": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0016512_pain foot": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0152032_urinary hesitation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0281825_disequilibrium": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0016382_flushing": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085632_indifferent mood": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1313921_urinoma": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0239981_hypoalbuminemia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0241157_pustule": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232854_slowing of urinary stream": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0277794_extreme exhaustion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0233472_affect  labile",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0442739_no status change": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1135120_breakthrough pain": [
+    {
+      "disease": "UMLS:C0002895_sickle  cell anemia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0457097_green sputum": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232258_pansystolic murmur": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0694547_systolic ejection murmur": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0848340_stuffy nose": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234866_barking cough": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0425488_rapid shallow breathing": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0237304_noisy respiration": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0264273_nasal discharge present": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0871754_frail": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1511606_cystic lesion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0436331_symptom aggravating factors": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0221151_projectile vomiting": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0581911_heavy legs": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231690_titubation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234979_dysdiadochokinesia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1321756_achalasia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0030567_parkinson  disease",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0748706_side pain": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085702_monocytosis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0032781_posterior rhinorrhea": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0542044_incoherent": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0311395_lameness^umls:c1456822_claudication": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0392162_clammy skin": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0264576_mediastinal shift": [
+    {
+      "disease": "UMLS:C0032290_pneumonia  aspiration",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0027498_nausea and vomiting": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0541798_awakening early": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232726_tenesmus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1167754_fecaluria": [
+    {
+      "disease": "UMLS:C1510475_diverticulosis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232894_pneumatouria": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0235198_unable to concentrate": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234544_todd paralysis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0740880_alcoholic withdrawal symptoms": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231528_myalgia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1384606_dyspareunia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0149758_poor dentition": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0857516_floppy": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233467_inappropriate affect": [
+    {
+      "disease": "UMLS:C0019163_hepatitis  B",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0576456_poor feeding": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0859032_moan": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0008325_cholecystitis",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0221232_welt": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0040264_tinnitus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020303_hydropneumothorax": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0429562_superimposition": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0235129_feeling strange": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0242143_uncoordination": [
+    {
+      "disease": "UMLS:C0085584_encephalopathy",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0021400_influenza",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424530_absences finding": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0270844_tonic seizures": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0742985_debilitation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0338656_impaired cognition": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0013132_drool": [
+    {
+      "disease": "UMLS:C0002395_Alzheimer's  disease",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0235231_pin-point pupils": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0234379_tremor resting": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0541992_groggy": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0559546_adverse reaction^umls:c0879626_adverse effect": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1291077_abdominal bloating": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231230_fatigability": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233071_para 2": [
+    {
+      "disease": "UMLS:C0023267_fibroid  tumor",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0156543_abortion": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232943_intermenstrual heavy bleeding": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232997_previous pregnancies 2": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0860096_primigravida": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0702118_abnormally  hard consistency": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1405524_proteinemia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0041657_unconscious  state": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0085624_burning  sensation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0007859_pain neck": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0857087_dizzy spells": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0278146_shooting pain": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0235250_hyperemesis": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0443260_milky": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232605_regurgitates after swallowing": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0542073_lip smacking": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0751466_phonophobia": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0522336_rolling of eyes": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0002416_ambidexterity": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0149931_migraine  disorders",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232118_pulsus paradoxus": [
+    {
+      "disease": "UMLS:C0006826_malignant  neoplasms",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1291692_gravida 10": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0006318_bruit": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0476287_breath-holding spell": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0240962_scleral icterus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232602_retch": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0948786_blanch": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233492_elation": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0558089_verbally abusive behavior": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0558141_transsexual": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0474395_behavior showing increased motor activity": [
+    {
+      "disease": "UMLS:C0034067_emphysema  pulmonary",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0241158_scar tissue": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0520966_coordination abnormal": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0008301_choke": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232695_bowel sounds decreased": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0239832_numbness of hand": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0262581_no known drug allergies": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0024031_low back pain": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0277823_charleyhorse": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0205254_sedentary": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424749_feels hot/feverish": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c1517205_flare": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0232267_pericardial friction rub": [
+    {
+      "disease": "UMLS:C0031039_effusion  pericardial^UMLS:C1253937_pericardial effusion body substance",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0424337_hoard": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0030318_panic": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0425560_cardiovascular  finding^umls:c1320716_cardiovascular event": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0037580_soft tissue swelling": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0427629_rhd positive": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0233070_para 1": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0277873_nasal flaring": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0037383_sneeze": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0235396_hypertonicity": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0277977_murphy's sign": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0016204_flatulence": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    },
+    {
+      "disease": "UMLS:C0001511_adhesion",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0425449_gasping for breath": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0474505_feces in rectum": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0702118_abnormally hard consistency": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0240805_prodrome": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0020639_hypoproteinemia": [
+    {
+      "disease": "UMLS:C0030312_pancytopenia",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0556346_alcohol binge episode": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0000727_abdomen acute": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0740844_air fluid level": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0425491_catching breath": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0456091_large-for-dates fetus": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0231441_immobile": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ],
+  "umls:c0455204_homicidal thoughts": [
+    {
+      "disease": "",
+      "risk_level": 2,
+      "severity": "Moderate"
+    }
+  ]
+}

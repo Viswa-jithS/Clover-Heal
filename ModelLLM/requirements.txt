@@ -1,0 +1,38 @@
+# Core dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Auth
+python-jose[cryptography]
+passlib[bcrypt]
+
+# LLM
+groq
+
+# ML/Data
+numpy
+pandas
+scikit-learn
+joblib
+pillow
+tensorflow
+
+# NLP
+sentence-transformers
+
+# ICD mapping
+rapidfuzz
+lxml
+
+# Utilities
+requests
+tqdm
