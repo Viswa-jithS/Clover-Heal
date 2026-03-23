@@ -67,13 +67,8 @@ export const Footer = () => {
           </div>
         </div>
 
-        <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div className="border-t border-white/10 pt-8 flex justify-center items-center">
           <p className="text-slate-500 text-sm">&copy; {new Date().getFullYear()} CloverHeal. All rights reserved.</p>
-          <div className="flex gap-6 text-sm text-slate-400">
-            <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
-            <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-            <a href="#" className="hover:text-white transition-colors">Cookie Policy</a>
-          </div>
         </div>
       </div>
     </footer>
