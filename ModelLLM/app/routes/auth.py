@@ -48,7 +48,6 @@ def register(data: UserRegister, db: Session = Depends(get_db)):
 @router.post("/login", response_model=TokenResponse)
 def login(data: UserLogin, db: Session = Depends(get_db)):
     """Authenticate user and return JWT token."""
-
     user = db.query(User).filter(User.email == data.email).first()
 
     if not user or not verify_password(data.password, user.password_hash):
@@ -59,7 +58,6 @@ def login(data: UserLogin, db: Session = Depends(get_db)):
         )
 
     token = create_access_token(data={"sub": str(user.id)})
-
 
     return TokenResponse(
         access_token=token,
